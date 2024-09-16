@@ -15,14 +15,14 @@ const prompt = require('prompt-sync')();
 
 ### Manipulação de Objetos 
 
-    __1. Acessando Propriedades de Objetos__
-        * Objetivo: Crie um objeto carro com propriedades como marca, modelo, ano, e cor. Use for in para iterar sobre as propriedades e exibir seus valores no console. 
+    **1. Acessando Propriedades de Objetos**
+        *Objetivo: Crie um objeto carro com propriedades como marca, modelo, ano, e cor. Use for in para iterar sobre as propriedades e exibir seus valores no console. 
 
-    __2. Verificando Propriedades__
-        * Objetivo: Crie um objeto livro com propriedades titulo, autor, anoPublicacao e genero. Verifique se a propriedade editora existe no objeto usando for in. Se não existir, adicione essa propriedade ao objeto. 
+    **2. Verificando Propriedades**
+        *Objetivo: Crie um objeto livro com propriedades titulo, autor, anoPublicacao e genero. Verifique se a propriedade editora existe no objeto usando for in. Se não existir, adicione essa propriedade ao objeto. 
 
-    __3. Filtrando Propriedades de Objetos__
-        * Objetivo: Dado um objeto produto com várias propriedades, crie uma função que retorna um novo objeto contendo apenas as propriedades cujo valor seja maior que um valor específico. Use for in para filtrar as propriedades. 
+    **3. Filtrando Propriedades de Objetos**
+        *Objetivo: Dado um objeto produto com várias propriedades, crie uma função que retorna um novo objeto contendo apenas as propriedades cujo valor seja maior que um valor específico. Use for in para filtrar as propriedades. 
 
 ### Manipulação de Arrays de Objetos com for of 
 
